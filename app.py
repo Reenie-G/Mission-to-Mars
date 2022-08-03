@@ -158,7 +158,12 @@
    "name": "python",
    "nbconvert_exporter": "python",
    "pygments_lexer": "ipython3",
-   "version": "3.7.13"
+   "version": "3.7.6"
+  },
+  "vscode": {
+   "interpreter": {
+    "hash": "4a9361c6053ddebb4a3cbafa186ad24281b12153eb8dd7165b81196dc981e63a"
+   }
   }
  },
  "nbformat": 4,
